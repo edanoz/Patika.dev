@@ -23,11 +23,10 @@ big-0 gösterimi , 0(n^2) olur.
 ---
 3.Time Complexity:
 
-*Average case: Aradığımız sayının ortada olması,
-*Worst case: Aradığımız sayının sonda olması, 
-*Best case: Aradığımız sayının dizinin en başında olması.
+-Average case: Aradığımız sayının ortada olması,
+-Worst case: Aradığımız sayının sonda olması, 
+-Best case: Aradığımız sayının dizinin en başında olması.
 ise,
-
 4.
 ```
 18 sayısı , average case kapsamına girer.
