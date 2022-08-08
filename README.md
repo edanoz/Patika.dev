@@ -12,5 +12,20 @@ Aşama 2: [2,6,16,22,18,27]
 Aşama 3: [2,6,16,18,22,27]
 ```
 ---
+2. Big-O gösterimini yazınız.
+
+---
+```
+Yapılan aşamalar 1'den n'e kadar olan sayıların toplamını verir;
+n(n+1)/2 formulünden 
+big-0 gösterimi , 0(n^2) olur.
+```
+---
+3.Time Complexity:
+Average case: Aradığımız sayının ortada olması,
+Worst case: Aradığımız sayının sonda olması, 
+Best case: Aradığımız sayının dizinin en başında olması.
+ise,
+
 
 
