@@ -42,6 +42,6 @@ big-0 gösterimi , 0(n^2) olur.
 ```
 ---
 
-[Bağlantı](https://www.patika.dev/tr)
+[Patika.dev](https://www.patika.dev/tr)
 
 
